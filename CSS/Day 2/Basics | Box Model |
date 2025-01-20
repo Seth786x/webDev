@@ -1,0 +1,11 @@
+There are three types of integration of CSS
+
+- inline
+- internal
+- External (most recommended)
+
+The output on the website is according to the priority in which we ahve written, i.e there are no conflicts. The information will be according to the most recently given indtrucation
+
+
+The BOX MODEL can be seen in the files of DAY 2
+
